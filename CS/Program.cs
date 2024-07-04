@@ -13,7 +13,7 @@ class Program
     }
 }*/
 
-using System;
+/*using System;
 
 namespace CS
 {
@@ -30,6 +30,8 @@ namespace CS
             Console.WriteLine($"Circunferência: {c.calc_circ()}");
         }
     }
-}
+}*/
+
+
 
 
