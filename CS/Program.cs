@@ -32,6 +32,31 @@ namespace CS
     }
 }*/
 
+/*using System;
+
+namespace CS
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Viagem V = new Viagem();
+            
+            Console.WriteLine("Digite a distância da viagem (KM): ");
+            double distancia = double.Parse(Console.ReadLine());
+            V.set_distancia(distancia);
+            
+            Console.WriteLine("Digite o tempo de viagem (Minutos): ");
+            double tempoMinutos = double.Parse(Console.ReadLine());
+            double tempoHoras = tempoMinutos / 60.0;
+            V.set_tempo(tempoHoras);
+
+            Console.WriteLine($"Distância: {V.get_distancia()} Tempo de Viagem: {V.get_tempo()}");
+            Console.WriteLine($"Velocidade Média: {V.velocidade_media()}");
+        }
+    }
+}*/
+
 
 
 
