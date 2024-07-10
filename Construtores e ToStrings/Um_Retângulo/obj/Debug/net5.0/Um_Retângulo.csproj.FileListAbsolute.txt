@@ -1,0 +1,16 @@
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\bin\Debug\net5.0\Um_Retângulo.exe
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\bin\Debug\net5.0\Um_Retângulo.deps.json
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\bin\Debug\net5.0\Um_Retângulo.runtimeconfig.json
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\bin\Debug\net5.0\Um_Retângulo.runtimeconfig.dev.json
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\bin\Debug\net5.0\Um_Retângulo.dll
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\bin\Debug\net5.0\ref\Um_Retângulo.dll
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\bin\Debug\net5.0\Um_Retângulo.pdb
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\obj\Debug\net5.0\Um_Retângulo.csproj.AssemblyReference.cache
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\obj\Debug\net5.0\Um_Retângulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\obj\Debug\net5.0\Um_Retângulo.AssemblyInfoInputs.cache
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\obj\Debug\net5.0\Um_Retângulo.AssemblyInfo.cs
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\obj\Debug\net5.0\Um_Retângulo.csproj.CoreCompileInputs.cache
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\obj\Debug\net5.0\Um_Retângulo.dll
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\obj\Debug\net5.0\ref\Um_Retângulo.dll
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\obj\Debug\net5.0\Um_Retângulo.pdb
+C:\Users\20232014040005\Documents\Programacao-Orientada-a-Objetos\Construtores e ToStrings\Um_Retângulo\obj\Debug\net5.0\Um_Retângulo.genruntimeconfig.cache

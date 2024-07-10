@@ -57,6 +57,32 @@ namespace CS
     }
 }*/
 
+/*UMA ENTRADA DE CINEMA*/
+
+/*UMA CONTA BANCÁRIA*/
+
+namespace CS
+{
+
+    class Program
+    {
+        static Void Main()
+        {
+            Retangulo retangulo = new Retangulo();
+
+            Console.WriteLine("Digite a altura do retângulo: ");
+            double altura = double.Parse(Console.Readline());
+            Retangulo.set_altura();
+
+            Console.WriteLine("Digite a base do retângulo: ");
+            double retangulo = double.Parse(Console.ReadLine());
+            Retangulo.set_base();
+
+            Console.WriteLine(ToString());
+            Console.WriteLine("ÁREA: " {Retangulo.calc_area()} "DIAGONAL: " {Retangulo.calc_diagonal()})
+        }
+    }
+}
 
 
 
