@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Retangulo
+class puRetangulo
 {
     private double _base = 0;
     private double _altura = 0;
@@ -57,7 +57,7 @@ class Retangulo
 
 namespace CS
 {
-    class Program
+    public class Program
     {
         static void Main()
         {
