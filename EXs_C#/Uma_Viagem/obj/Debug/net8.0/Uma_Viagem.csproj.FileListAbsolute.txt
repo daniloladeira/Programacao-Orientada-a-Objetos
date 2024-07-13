@@ -1,0 +1,15 @@
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Uma_Viagem/bin/Debug/net8.0/Uma_Viagem
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Uma_Viagem/bin/Debug/net8.0/Uma_Viagem.deps.json
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Uma_Viagem/bin/Debug/net8.0/Uma_Viagem.runtimeconfig.json
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Uma_Viagem/bin/Debug/net8.0/Uma_Viagem.dll
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Uma_Viagem/bin/Debug/net8.0/Uma_Viagem.pdb
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Uma_Viagem/obj/Debug/net8.0/Uma_Viagem.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Uma_Viagem/obj/Debug/net8.0/Uma_Viagem.AssemblyInfoInputs.cache
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Uma_Viagem/obj/Debug/net8.0/Uma_Viagem.AssemblyInfo.cs
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Uma_Viagem/obj/Debug/net8.0/Uma_Viagem.csproj.CoreCompileInputs.cache
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Uma_Viagem/obj/Debug/net8.0/Uma_Viagem.sourcelink.json
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Uma_Viagem/obj/Debug/net8.0/Uma_Viagem.dll
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Uma_Viagem/obj/Debug/net8.0/refint/Uma_Viagem.dll
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Uma_Viagem/obj/Debug/net8.0/Uma_Viagem.pdb
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Uma_Viagem/obj/Debug/net8.0/Uma_Viagem.genruntimeconfig.cache
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Uma_Viagem/obj/Debug/net8.0/ref/Uma_Viagem.dll

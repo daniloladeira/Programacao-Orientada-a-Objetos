@@ -1,0 +1,15 @@
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Um_Triangulo/bin/Debug/net8.0/Um_Triangulo
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Um_Triangulo/bin/Debug/net8.0/Um_Triangulo.deps.json
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Um_Triangulo/bin/Debug/net8.0/Um_Triangulo.runtimeconfig.json
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Um_Triangulo/bin/Debug/net8.0/Um_Triangulo.dll
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Um_Triangulo/bin/Debug/net8.0/Um_Triangulo.pdb
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Um_Triangulo/obj/Debug/net8.0/Um_Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Um_Triangulo/obj/Debug/net8.0/Um_Triangulo.AssemblyInfoInputs.cache
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Um_Triangulo/obj/Debug/net8.0/Um_Triangulo.AssemblyInfo.cs
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Um_Triangulo/obj/Debug/net8.0/Um_Triangulo.csproj.CoreCompileInputs.cache
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Um_Triangulo/obj/Debug/net8.0/Um_Triangulo.sourcelink.json
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Um_Triangulo/obj/Debug/net8.0/Um_Triangulo.dll
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Um_Triangulo/obj/Debug/net8.0/refint/Um_Triangulo.dll
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Um_Triangulo/obj/Debug/net8.0/Um_Triangulo.pdb
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Um_Triangulo/obj/Debug/net8.0/Um_Triangulo.genruntimeconfig.cache
+/workspaces/Programacao-Orientada-a-Objetos/Questões - C#/Um_Triangulo/obj/Debug/net8.0/ref/Um_Triangulo.dll
